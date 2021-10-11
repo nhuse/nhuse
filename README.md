@@ -11,7 +11,7 @@
 <img align="center" alt="Nathan's GitHub Stats" src="https://github-readme-stats-1-lilac.vercel.app//api?username=Nhuse&show_icons=true&hide_border=true" />
 <br>
 
-## Get in Touch!
+## Get in Touch
 <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [Nathan Huse](https://www.linkedin.com/in/nathan-huse-64a52016b/)
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />       <nate.huse1023@gmail.com> <br><br>
