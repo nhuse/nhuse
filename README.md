@@ -4,7 +4,7 @@
 
 ![16128111](https://user-images.githubusercontent.com/16128111/136853986-c0c5c73e-ffb0-4df4-811e-bba5f0ebd5bb.jpg)
 
-🌱 I’m currently learning CSS, JavaScript, React, Rails and Ruby <br>
+🌱 I’m currently learning CSS, JavaScript, React, Ruby, Rails, AWS, and Python <br>
 ⚡ Fun fact: I'm a triplet! <br>
 
 ## Git Stats
